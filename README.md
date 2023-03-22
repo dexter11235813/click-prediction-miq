@@ -31,5 +31,5 @@ Project Organization
 
 Solution for the Take Home Assignemnt Shared on 20th March, 2023. 
 
-The Notebooks containing the approach, EDA and Modelling are contained in the `notebooks` folder. 
+The Notebooks containing the approach, EDA and Modelling are contained in the `click_prediction/notebooks` folder. 
 
