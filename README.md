@@ -1,7 +1,10 @@
 click_prediction
 ==============================
+Solution for the Take Home Assignemnt Shared on 20th March, 2023. 
 
-A short description of the project.
+The Notebooks containing the approach, EDA and Modelling are contained in the `click_prediction/notebooks` folder. 
+
+
 
 Project Organization
 ------------
@@ -28,8 +31,4 @@ Project Organization
        |_ config.py
 
 --------
-
-Solution for the Take Home Assignemnt Shared on 20th March, 2023. 
-
-The Notebooks containing the approach, EDA and Modelling are contained in the `click_prediction/notebooks` folder. 
 
