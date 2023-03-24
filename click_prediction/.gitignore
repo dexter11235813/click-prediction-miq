@@ -43,6 +43,9 @@ nosetests.xml
 coverage.xml
 *.cover
 
+
+/notebooks/scratchpad.ipynb
+/notebooks/03-HyperparameterTuning.ipynb
 # Translations
 *.mo
 *.pot
