@@ -41,5 +41,5 @@ def get_chisq_result(df: pd.DataFrame, target: str, skip:List[str]) -> pd.DataFr
             column1.append(col1)
             column2.append(col2)
             chisq_p_value.append(p_value)
-    result = pd.DataFrame({"col1": column1, "col2": column2, "p_value": p_value})
+    result = pd.DataFrame({"col1": column1, "col2": column2, "p_value": chisq_p_value})
     return result
